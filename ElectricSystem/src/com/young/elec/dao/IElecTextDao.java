@@ -1,4 +1,6 @@
 package com.young.elec.dao;
+import java.io.Serializable;
+
 import org.springframework.stereotype.Repository;
 
 import com.young.elec.domain.*;
